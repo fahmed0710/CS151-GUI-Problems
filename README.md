@@ -7,7 +7,6 @@ and a label containing a car icon. As the user clicks the buttons, the car shoul
 4.18 - A class ClockIcon that implements the Icon interface type. 
 There is an analog clock whose hour, minute, and second hands show the current time. 
 To get the current hours and minutes, an object of type GregorianCalendar is constructed. 
-(Clock hands for the hour, minute, and second are required to be drawn and move to represent a current time.)
 
 4.20 - An enhanced ShapeIcon class so that it displays multiple moveable shapes. 
 The animation program shows a number of moving cars. 
