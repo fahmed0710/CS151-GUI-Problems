@@ -27,3 +27,9 @@ Each time the user enters a new line in a text field and clicks on the add butto
 The program follows the MVC model.
 Listeners are implemented in an anonymous class.
 Model is a separate class from the client (test) program.
+
+9.13 - 
+
+9.16 - 
+
+9.15 - 
