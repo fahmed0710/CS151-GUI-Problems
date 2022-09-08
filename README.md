@@ -1,5 +1,5 @@
 # CS151-GUI-Problems
-Smallscale GUI coding problems (CS151)
+Smallscale GUI coding problems 
 
 4.15 - A program that shows a frame with two buttons labeled “Zoom in”, and “Zoom out”, 
 and a label containing a car icon. As the user clicks the buttons, the car should get larger or smaller. 
